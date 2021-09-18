@@ -1,7 +1,3 @@
-
-//Chen Qiao
-//Date Apr 10
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
